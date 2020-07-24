@@ -4,6 +4,11 @@
 
 TODO: Add ChipWhisperer and OpenTitan getting started instructions.
 
+In the meantime see:
+
+* https://github.com/lowRISC/opentitan/pull/2587
+* https://github.com/lowRISC/opentitan/pull/2735
+
 ## Building the FPGA and test programs
 
 TODO: Automate via scripts? 
