@@ -8,9 +8,9 @@ TODO: Add ChipWhisperer and OpenTitan getting started instructions.
 
 TODO: Automate via scripts? 
 
-## Running captures and attacks
+## Running capture and attack
 
-Sample capture run ([sample traces](doc/sample_traces.html)):
+Sample capture run:
 
 ```console
 $ cd cw/cw305
@@ -35,6 +35,8 @@ Checking version:
 Capturing: 100%|████████████████████████████| 5000/5000 [01:35<00:00, 52.26it/s]
 Saving sample trace image to: doc/sample_traces.html
 ```
+
+![](doc/sample_traces.png)
 
 Sample analysis run (Failed):
 
